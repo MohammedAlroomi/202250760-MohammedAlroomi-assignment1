@@ -57,4 +57,4 @@ All AI-generated output was reviewed, tested, and customized with my own informa
 
 ## Live Demo
 
-> [https://mohammedalroomi.github.io/202250760-MohammedAlroomi-assignment1-1/](https://mohammedalroomi.github.io/202250760-MohammedAlroomi-assignment1-1/)
+> [https://mohammedalroomi.github.io/202250760-MohammedAlroomi-assignment1-1/](https://mohammedalroomi.github.io/202250760-MohammedAlroomi-assignment1/)
